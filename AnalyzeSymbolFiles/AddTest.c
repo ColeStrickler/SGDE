@@ -12,7 +12,7 @@ int AddNumbers(int number_1, int number_2){
 
 int SubtractNumbers(int number_1, int number_2){
 	int result = 0;
-	result = number_1 + number_2;
+	result = number_1 - number_2;
 	return result;
 }
 
